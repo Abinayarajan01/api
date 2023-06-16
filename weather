@@ -1,0 +1,5 @@
+http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={b6 907d289e10d714a6e88b30761fae22}
+GET/echo HTTP/1.1
+Host: openweathermap.com
+Accept: latitude :51.51 ;longitude : -0.13
+
